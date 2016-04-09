@@ -1,2 +1,3 @@
-# dragon-soldier-nostalgia
-Dragon Soldier: Nostalgia
+# Dragon Soldier: Nostalgia
+
+A browser-based text RPG
